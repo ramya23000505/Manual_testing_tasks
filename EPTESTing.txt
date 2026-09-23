@@ -1,0 +1,80 @@
+1. Requirement for the application
+
+Suppose we have a system:
+
+Input: A square matrix
+Process: Calculate eigenvalues and eigenvectors and determine whether the matrix can be diagonalized.
+Output: If diagonalizable, display matrices P and D such that
+A = P D P⁻¹
+
+2 1 0 0
+0 5 2 0
+0 0 7 3
+0 0 0 9
+
+
+1.Exercises:
+
+Requirement: Students can enter marks from 0 to 100.
+
+Question
+
+Identify the equivalence partitions for the marks input field. Divide the possible inputs into valid and invalid equivalence classes. Provide one suitable test value for each partition.
+
+2. Exercise – ATM Withdrawal Validation
+
+Requirement: The ATM allows customers to withdraw an amount between ₹500 and ₹20,000.
+
+Task
+
+Identify all the equivalence partitions for the withdrawal amount and provide one suitable test value for each partition.
+
+
+
+Exercise 3 – Username Validation
+
+Requirement: The username must contain between 5 and 15 characters.
+
+Task
+
+Identify all the equivalence partitions for the username length and provide one suitable test value for each partition.
+
+
+Exercise 4 – Mobile Number Validation
+
+Requirement: The mobile number must contain exactly 10 digits.
+
+Task
+
+Identify all the equivalence partitions for the mobile number length and provide one suitable test value for each partition.
+
+
+Exercise 5 – Shopping Cart Quantity
+
+Requirement: A customer can purchase 1 to 10 items.
+
+Find the equivalence partitions.
+
+
+Exercise 6: Bank Account Balance
+
+Requirement: Minimum balance should be ₹1,000. Maximum allowed balance is ₹10,00,000.
+
+Create equivalence classes.
+
+
+
+Exercise 7 – Employee Salary
+
+Requirement: Salary must be between ₹15,000 and ₹2,00,000.
+
+Task
+
+Create EP test cases.
+
+Exercise 8 – Movie Ticket Booking
+
+Requirement: A customer can book 1–6 tickets per transaction.
+
+Create equivalence partitions.
+
