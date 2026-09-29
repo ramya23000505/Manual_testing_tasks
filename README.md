@@ -64,31 +64,42 @@ This task contains **10 Python programming problems** based on real-world scenar
 | [q9.py](https://github.com/user-attachments/files/32644483/q9.py) | Network Packet Analysis |
 | [q10.py](https://github.com/user-attachments/files/32644488/q10.py) | Hospital Appointment Scheduling |
 
-# Task-6 – Python Assignments (29/09/2026):
+# Task-6 – Python Assignments (29/09/2026)
 
-This task contains a collection of Python programming assignments covering
-NumPy, Python programming, and Python functions.
+This task contains a collection of Python programming assignments covering **NumPy, Python programming, and Python functions**.
 
-Task-6/
-│
-├── NUMPY ASSIGNMENT/
-│   └── 10-numpy question.ipynb
-│
-├── Python Assignment/
-│   ├── Area od circle.py
-│   ├── Count Frequency of string.py
-│   ├── factorial.py
-│   ├── Fibonacci series.py
-│   ├── Merge two dictionaries.py
-│   ├── prime.py
-│   ├── Reverse the string.py
-│   ├── Remove duplicates from list.py
-│   ├── Second largest element.py
-│   └── square-lambda.py
-│
-└── Python Function Assignments/
-    ├── Employee Info.py
-    ├── math operation.py
-    ├── remove-duplicates.py
-    ├── sort-tuple.py
-    └── Sum number.py
+## 📂 Task-6 Contents
+
+| Folder | File | Description |
+|---|---|---|
+| **NUMPY ASSIGNMENT** | `10-numpy question.ipynb` | NumPy-based assignment |
+| **Python Assignment** | `Area od circle.py` | Calculate area of a circle |
+| **Python Assignment** | `Count Frequency of string.py` | Count character frequency in a string |
+| **Python Assignment** | `factorial.py` | Calculate factorial |
+| **Python Assignment** | `Fibonacci series.py` | Generate Fibonacci series |
+| **Python Assignment** | `Merge two dictonaries.py` | Merge two dictionaries |
+| **Python Assignment** | `prime.py` | Check prime numbers |
+| **Python Assignment** | `Reverse the string.py` | Reverse a string |
+| **Python Assignment** | `Revome duplicates from list.py` | Remove duplicate elements from a list |
+| **Python Assignment** | `Second largest element.py` | Find the second-largest element |
+| **Python Assignment** | `square-lambda.py` | Calculate square using lambda |
+| **Python Function Assignments** | `Employee Info.py` | Display employee information using functions |
+| **Python Function Assignments** | `math operation.py` | Perform mathematical operations using functions |
+| **Python Function Assignments** | `remove-duplicates.py` | Remove duplicates using a function |
+| **Python Function Assignments** | `sort-tuple.py` | Sort tuple elements using a function |
+| **Python Function Assignments** | `Sum number.py` | Calculate sum using a function |
+
+## 📚 Topics Covered
+
+- Python Basics
+- Lists and Strings
+- Dictionaries
+- Lambda Functions
+- Mathematical Operations
+- User-Defined Functions
+- NumPy
+- Problem Solving
+
+## 🎯 Objective
+
+The objective of Task-6 is to practice Python programming concepts through different assignments and implement solutions using **Python, functions, and NumPy**.
