@@ -1,4 +1,3 @@
-<img width="546" height="173" alt="image" src="https://github.com/user-attachments/assets/e92c054c-8aaf-4bb7-987d-120125adf87e" /># Manual_testing_tasks
 ```
 Name: Ramya R
 Reg No: 212223230169
