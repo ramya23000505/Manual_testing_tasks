@@ -82,7 +82,7 @@ This task contains a collection of Python programming assignments covering **Num
 | **Python Assignment** | [Reverse the string.py](https://github.com/user-attachments/files/32795735/Reverse.the.string.py) | Reverse a string |
 | **Python Assignment** | [Revome duplicates from list.py](https://github.com/user-attachments/files/32795747/Revome.duplicates.from.list.py)| Remove duplicate elements from a list |
 | **Python Assignment** | [Second largest element.py](https://github.com/user-attachments/files/32795754/Second.largest.element.py) | Find the second-largest element |
-| **Python Assignment** | [square-lambda.py](https://github.com/user-attachments/files/32795890/square-lambda.py)[Uploading prime.py…]() | Calculate square using lambda |
+| **Python Assignment** | [square-lambda.py](https://github.com/user-attachments/files/32795890/square-lambda.py)| Calculate square using lambda |
 | **Python Function Assignments** | [Employee Info.py](https://github.com/user-attachments/files/32795881/Employee.Info.py)  | Display employee information using functions |
 | **Python Function Assignments** | [math operation.py](https://github.com/user-attachments/files/32795782/math.operation.py) | Perform mathematical operations using functions |
 | **Python Function Assignments** | [remove-duplicates.py](https://github.com/user-attachments/files/32796005/remove-duplicates.py) | Remove duplicates using a function |
