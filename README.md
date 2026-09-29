@@ -72,34 +72,20 @@ This task contains a collection of Python programming assignments covering **Num
 
 | Folder | File | Description |
 |---|---|---|
-| **NUMPY ASSIGNMENT** | `10-numpy question.ipynb` | NumPy-based assignment |
-| **Python Assignment** | `Area od circle.py` | Calculate area of a circle |
-| **Python Assignment** | `Count Frequency of string.py` | Count character frequency in a string |
-| **Python Assignment** | `factorial.py` | Calculate factorial |
-| **Python Assignment** | `Fibonacci series.py` | Generate Fibonacci series |
-| **Python Assignment** | `Merge two dictonaries.py` | Merge two dictionaries |
-| **Python Assignment** | `prime.py` | Check prime numbers |
-| **Python Assignment** | `Reverse the string.py` | Reverse a string |
-| **Python Assignment** | `Revome duplicates from list.py` | Remove duplicate elements from a list |
-| **Python Assignment** | `Second largest element.py` | Find the second-largest element |
-| **Python Assignment** | `square-lambda.py` | Calculate square using lambda |
-| **Python Function Assignments** | `Employee Info.py` | Display employee information using functions |
-| **Python Function Assignments** | `math operation.py` | Perform mathematical operations using functions |
-| **Python Function Assignments** | `remove-duplicates.py` | Remove duplicates using a function |
-| **Python Function Assignments** | `sort-tuple.py` | Sort tuple elements using a function |
-| **Python Function Assignments** | `Sum number.py` | Calculate sum using a function |
+| **NUMPY ASSIGNMENT** | [10-numpy question.ipynb](https://github.com/user-attachments/files/32795655/10-numpy.question.ipynb) | NumPy-based assignment |
+| **Python Assignment** | [Area od circle.py](https://github.com/user-attachments/files/32795646/Area.od.circle.py) | Calculate area of a circle |
+| **Python Assignment** |  [Count Frequency of string.py](https://github.com/user-attachments/files/32795703/Count.Frequency.of.string.py)| Count character frequency in a string |
+| **Python Assignment** | [factorial.py](https://github.com/user-attachments/files/32795943/factorial.py) | Calculate factorial |
+| **Python Assignment** | [Fibonacci series.py](https://github.com/user-attachments/files/32795720/Fibonacci.series.py) | Generate Fibonacci series |
+| **Python Assignment** | [Merge two dictonaries.py](https://github.com/user-attachments/files/32795724/Merge.two.dictonaries.py) | Merge two dictionaries |
+| **Python Assignment** | [prime.py](https://github.com/user-attachments/files/32795899/prime.py) | Check prime numbers |
+| **Python Assignment** | [Reverse the string.py](https://github.com/user-attachments/files/32795735/Reverse.the.string.py) | Reverse a string |
+| **Python Assignment** | [Revome duplicates from list.py](https://github.com/user-attachments/files/32795747/Revome.duplicates.from.list.py)| Remove duplicate elements from a list |
+| **Python Assignment** | [Second largest element.py](https://github.com/user-attachments/files/32795754/Second.largest.element.py) | Find the second-largest element |
+| **Python Assignment** | [square-lambda.py](https://github.com/user-attachments/files/32795890/square-lambda.py)[Uploading prime.py…]() | Calculate square using lambda |
+| **Python Function Assignments** | [Employee Info.py](https://github.com/user-attachments/files/32795881/Employee.Info.py)  | Display employee information using functions |
+| **Python Function Assignments** | [math operation.py](https://github.com/user-attachments/files/32795782/math.operation.py) | Perform mathematical operations using functions |
+| **Python Function Assignments** | [remove-duplicates.py](https://github.com/user-attachments/files/32796005/remove-duplicates.py) | Remove duplicates using a function |
+| **Python Function Assignments** | [sort-tuple.py](https://github.com/user-attachments/files/32795859/sort-tuple.py) | Sort tuple elements using a function |
+| **Python Function Assignments** | [Sum number.py](https://github.com/user-attachments/files/32795806/Sum.number.py) | Calculate sum using a function |
 
-## 📚 Topics Covered
-
-- Python Basics
-- Lists and Strings
-- Dictionaries
-- Lambda Functions
-- Mathematical Operations
-- User-Defined Functions
-- NumPy
-- Problem Solving
-
-## 🎯 Objective
-
-The objective of Task-6 is to practice Python programming concepts through different assignments and implement solutions using **Python, functions, and NumPy**.
