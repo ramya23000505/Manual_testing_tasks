@@ -1,4 +1,4 @@
-# Manual_testing_tasks
+<img width="546" height="173" alt="image" src="https://github.com/user-attachments/assets/e92c054c-8aaf-4bb7-987d-120125adf87e" /># Manual_testing_tasks
 ```
 Name: Ramya R
 Reg No: 212223230169
@@ -64,3 +64,32 @@ This task contains **10 Python programming problems** based on real-world scenar
 | [q8.py](https://github.com/user-attachments/files/32644480/q8.py) | Employee Skill Grouping |
 | [q9.py](https://github.com/user-attachments/files/32644483/q9.py) | Network Packet Analysis |
 | [q10.py](https://github.com/user-attachments/files/32644488/q10.py) | Hospital Appointment Scheduling |
+
+# Task-6 – Python Assignments (29/09/2026):
+
+This task contains a collection of Python programming assignments covering
+NumPy, Python programming, and Python functions.
+
+Task-6/
+│
+├── NUMPY ASSIGNMENT/
+│   └── 10-numpy question.ipynb
+│
+├── Python Assignment/
+│   ├── Area od circle.py
+│   ├── Count Frequency of string.py
+│   ├── factorial.py
+│   ├── Fibonacci series.py
+│   ├── Merge two dictionaries.py
+│   ├── prime.py
+│   ├── Reverse the string.py
+│   ├── Remove duplicates from list.py
+│   ├── Second largest element.py
+│   └── square-lambda.py
+│
+└── Python Function Assignments/
+    ├── Employee Info.py
+    ├── math operation.py
+    ├── remove-duplicates.py
+    ├── sort-tuple.py
+    └── Sum number.py
