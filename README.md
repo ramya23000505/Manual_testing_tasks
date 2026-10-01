@@ -68,7 +68,7 @@ This task contains **10 Python programming problems** based on real-world scenar
 
 This task contains a collection of Python programming assignments covering **NumPy, Python programming, and Python functions**.
 
-## 📂 Task-6 Contents
+## Task-6 Contents
 
 | Folder | File | Description |
 |---|---|---|
@@ -88,4 +88,21 @@ This task contains a collection of Python programming assignments covering **Num
 | **Python Function Assignments** | [remove-duplicates.py](https://github.com/user-attachments/files/32796005/remove-duplicates.py) | Remove duplicates using a function |
 | **Python Function Assignments** | [sort-tuple.py](https://github.com/user-attachments/files/32795859/sort-tuple.py) | Sort tuple elements using a function |
 | **Python Function Assignments** | [Sum number.py](https://github.com/user-attachments/files/32795806/Sum.number.py) | Calculate sum using a function |
+
+# Task-7 – Test Question Practice (01/10/2026)
+
+## Overview
+
+This folder contains Python solutions for **Test Question Practice – Task-7**.
+
+The programs are based on common programming problems used to practice **problem-solving, algorithms, data structures, and Python programming concepts**.
+
+## Programs
+
+| No. | Program | Concept |
+|---|---|---|
+| 1 | [1-Employee Performance Analysis.py](https://github.com/user-attachments/files/32887864/1-Employee.Performance.Analysis.py) |Employee Performance Analysis |
+| 2 | [2-Employee Skill Grouping.py](https://github.com/user-attachments/files/32887884/2-Employee.Skill.Grouping.py) |Employee Skill Grouping |
+| 3 | [3-Data Compression System.py](https://github.com/user-attachments/files/32887902/3-Data.Compression.System.py) |Data Compression System |
+| 4 | [4-Web Browser Cache.py](https://github.com/user-attachments/files/32887906/4-Web.Browser.Cache.py) |Web Browser Cache |
 
